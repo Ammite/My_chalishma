@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int a,b,x;
+	int a,b,cin;
 	cout<<"Write one number from 1 to 4 if you write:"<<endl<<"1)a+b"<<endl<<"2)a-b"<<endl<<"3)a*b"<<endl<<"4)a/b"<<endl;
-	cin>>x;
+	cin>>cin;
 	cout<<"Okay, please enter two numbers a and b:";
 	if(x==1){
 		cin>>a>>b;
